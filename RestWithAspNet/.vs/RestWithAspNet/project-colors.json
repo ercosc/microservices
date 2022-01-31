@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ebf9621c-afb6-4570-9173-cabd5e200372": {
+      "ProjectGuid": "ebf9621c-afb6-4570-9173-cabd5e200372",
+      "DisplayName": "RestWithAspNet",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
